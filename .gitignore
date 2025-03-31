@@ -1,6 +1,6 @@
-python-2dgc-env/
-nist_results/
-ref_peak_pdf/
-Python-2DGC-Alignment/
-!Python-2DGC-Alignment/annotation_automated.ipynb
+Python-2DGC-Alignment/*
+!Python-2DGC-Alignment/notebooks/
 !Python-2DGC-Alignment/notebooks/annotation_automated.ipynb
+ref_peak_pdf/
+python-2dgc-env/
+
