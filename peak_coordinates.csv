@@ -1,0 +1,19 @@
+Mol,mass,RT1,RT2
+Alanine-d4,120,12.37,0.266
+Valine-d8,152,15.46,0.266
+Nicotinic acid-d4,184,17.54,0.907
+Salycilic acid-d4,271,23.34,0.341
+Glutamic acid-d5,251,26.08,0.666
+Glucose-6C13,207,32.27,0.116
+Cholesterol-d7,375,51.59,0.691
+Serotonine-d4,176,42.03,0.499
+"Octanoic acid, methyl esther C8",87,13.11,0.25
+"Nonanoic acid, methyl esther C9",87,15.59,0.017
+"Decanoic acid, methyl ester C10",87,18.41,0.025
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008
+Methyl tetradecanoate C14,87,28.15,0.008
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042
+Methyl stearate C18,87,36.08,0.083
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208
+"Docosanoic acid, methyl ester C22",87,42.46,0.399
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749
