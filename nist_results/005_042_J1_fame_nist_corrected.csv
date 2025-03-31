@@ -1,0 +1,73 @@
+Mol,mass,RT1_theoretical,RT2_theoretical,RT1_corrected,RT2_corrected,name,cas,match_factor,reverse_match_factor,spec_loc,hit_prob
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"Cyclotrisiloxane, hexamethyl-",541-5-9,653,820,69464584,17.54
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"Silane, triethyl(2-phenylethoxy)-",14629-62-0,640,687,39451447,11.33
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"Arsenous acid, tris(trimethylsilyl) ester",55429-29-3,635,730,70591182,9.13
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"1,2-Benzisothiazol-3-amine, TBDMS derivative",---,627,655,2731828,6.81
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"Thymol, TBDMS derivative",330455-64-6,623,656,34146405,5.75
+"Octanoic acid, methyl esther C8",87,13.1,1.231,13.308082327538882,1.1661073825503356,"2-(p-Tolyl)propan-2-ol, TMS",1403992-16-4,620,644,38332613,5.08
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Nonanoic acid, methyl ester",1731-84-6,838,863,62810512,42.8
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Cyclopentaneundecanoic acid, methyl ester",25779-85-5,777,827,47709570,7.45
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"7-Methyloctanoic acid, methyl ester",5129-53-3,768,785,64217284,5.41
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"3-Propylhexanoic acid, methyl ester",73999-15-2,764,793,1375552,4.57
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Undecanoic acid, 2-methyl-",24323-25-9,757,830,51602293,3.5
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Decanoic acid, methyl ester",110-42-9,757,797,64774616,3.5
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,"Decanoic acid, methyl ester",110-42-9,828,860,64774616,54.18
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,Methyl 8-methyl-nonanoate,---,800,827,55797097,15.64
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,"Cyclopentaneundecanoic acid, methyl ester",25779-85-5,775,837,47709570,4.77
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,"Undecanoic acid, 2-methyl-",24323-25-9,764,848,51602293,3.27
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,"Nonanoic acid, methyl ester",1731-84-6,758,809,62810512,2.57
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.07550335570469799,"Dodecanoic acid, methyl ester",111-82-0,751,796,52448503,1.97
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Dodecanoic acid, methyl ester",111-82-0,861,891,52448503,60.83
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Undecanoic acid, 10-methyl-, methyl ester",5129-56-6,826,855,68415097,15.27
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Dodecanoic acid, 2-methyl-",2874-74-0,790,908,50754114,3.77
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Cyclopentaneundecanoic acid, methyl ester",25779-85-5,782,859,47709570,2.81
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Pentadecanoic acid, 14-methyl-, methyl ester",5129-60-2,768,810,57487734,1.76
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.0587248322147651,"Undecanoic acid, 2-methyl-",24323-25-9,760,851,51602293,1.31
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,Methyl tetradecanoate,124-10-7,830,859,65896244,32.11
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,"Tridecanoic acid, 12-methyl-, methyl ester",5129-58-8,824,849,56639651,25.24
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,"Cyclopentaneundecanoic acid, methyl ester",25779-85-5,779,859,47709570,5.37
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,"Tetradecanoic acid, 12-methyl-, methyl ester, (S)-",62691-5-8,778,867,61119986,5.16
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,"Pentadecanoic acid, 14-methyl-, methyl ester",5129-60-2,772,824,57487734,4.06
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.050335570469798654,2-Methylpentadecanoic acid,25354-92-1,771,822,58330888,3.9
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Hexadecanoic acid, methyl ester",112-39-0,854,875,53281898,35.5
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Pentadecanoic acid, 14-methyl-, methyl ester",5129-60-2,849,889,57487734,28.61
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Pentadecanoic acid, methyl ester",7132-64-1,781,834,59729180,4.34
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Tridecanoic acid, methyl ester",1731-88-0,767,837,54400046,2.71
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,Methyl tetradecanoate,124-10-7,763,831,65896244,2.29
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Tetradecanoic acid, 12-methyl-, methyl ester",5129-66-8,763,785,62241353,2.29
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,"Heptadecanoic acid, 16-methyl-, methyl ester",5129-61-3,816,837,71790900,33.01
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,Methyl stearate,112-61-8,807,855,60287013,23.97
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,"Heptadecanoic acid, 10-methyl-, methyl ester",2490-25-7,788,796,58053798,11.64
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,2-Methyloctadecanoic acid,7217-83-6,765,817,58610434,4.25
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,"Heptadecanoic acid, 15-methyl-, methyl ester",54833-55-5,765,776,3642864,4.25
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.1342281879194631,"Tetradecanoic acid, 12-methyl-, methyl ester, (S)-",62691-5-8,753,880,61119986,2.83
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Eicosanoic acid, methyl ester",1120-28-1,802,842,53838910,33.99
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Tetradecanoic acid, 12-methyl-, methyl ester, (S)-",62691-5-8,733,868,61119986,5.05
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Tetradecanoic acid, 12-methyl-, methyl ester",5129-66-8,730,775,62241353,4.46
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Pentadecanoic acid, 14-methyl-, methyl ester",5129-60-2,729,858,57487734,4.29
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Octadecanoic acid, 17-methyl-, methyl ester",55124-97-5,728,770,60842102,4.12
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.22651006711409397,"Heptadecanoic acid, methyl ester",1731-92-6,726,810,55518835,3.8
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,"Docosanoic acid, methyl ester",929-77-1,811,850,60565165,51.59
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,Methyl 20-methyl-heneicosanoate,---,787,875,62526570,17.28
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,"Octadecanoic acid, 17-methyl-, methyl ester",55124-97-5,732,778,60842102,3.35
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,"Heptadecanoic acid, 16-methyl-, methyl ester",5129-61-3,725,785,71790900,2.56
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,"Tetradecanoic acid, 12-methyl-, methyl ester",5129-66-8,723,775,62241353,2.36
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.3859060402684564,"Nonadecanoic acid, methyl ester",1731-94-8,720,806,56359167,2.09
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Tetracosanoic acid, methyl ester",2442-49-1,821,886,61398181,65.58
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Heneicosanoic acid, 18-propyl-, methyl ester",55334-67-3,720,726,8592644,4.8
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Octadecanoic acid, 17-methyl-, methyl ester",55124-97-5,702,757,60842102,2.47
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Tetradecanoic acid, 12-methyl-, methyl ester",5129-66-8,701,753,62241353,2.37
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Heptadecanoic acid, 16-methyl-, methyl ester",5129-61-3,695,757,71790900,1.87
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Hexadecanoic acid, 14-methyl-, methyl ester",2490-49-5,693,741,57204491,1.72
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"Heptasiloxane, 1,1,3,3,5,5,7,7,9,9,11,11,13,13-tetradecamethyl-",19095-23-9,566,616,55223965,11.85
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"Octasiloxane, 1,1,3,3,5,5,7,7,9,9,11,11,13,13,15,15-hexadecamethyl-",19095-24-0,557,610,54939763,8.61
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"Hexasiloxane, 1,1,3,3,5,5,7,7,9,9,11,11-dodecamethyl-",995-82-4,556,608,59159101,8.27
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"2-(Pyridin-2-ylformamido)acetic acid, 2TMS",---,550,600,30510155,6.5
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"Silicic acid, diethyl bis(trimethylsilyl) ester",3555-45-1,542,711,53774046,4.85
+"Hexacosanoic acid, methyl ester C26",87,48.29,0.141,48.484095892650195,0.0587248322147651,"Thymol, TBDMS derivative",330455-64-6,537,635,34146405,3.91
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,"Cyclotrisiloxane, hexamethyl-",541-5-9,659,878,69464584,27.37
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,"Arsenous acid, tris(trimethylsilyl) ester",55429-29-3,647,726,70591182,18.22
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,"1,2-Dimethoxy-4-(1-methoxy-1-propenyl)benzene",---,614,674,70593525,4.77
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,Tris(tert-butyldimethylsilyloxy)arsane,---,613,726,3016266,4.58
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,"1,2-Benzisothiazol-3-amine, TBDMS derivative",---,611,638,2731828,4.23
+"Octacosanoic acid, methyl ester C28",87,51.2,0.924,51.189943089966455,0.8053691275167785,"1,4-Bis(trimethylsilyl)benzene",13183-70-5,609,655,34706287,3.9

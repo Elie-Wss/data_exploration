@@ -1,0 +1,21 @@
+Mol,mass,RT1_theoretical,RT2_theoretical,RT1_corrected,RT2_corrected,name,cas,match_factor,reverse_match_factor,spec_loc,hit_prob
+"Octanoic acid, methyl esther C8",87,13.109999999999998,0.25,13.32889653674901,0.40268456375838924,"α-Hydroxyisobutyric acid, 2TMS derivative",55133-92-1,703,741,58140847,18.21
+"Octanoic acid, methyl esther C8",87,13.109999999999998,0.25,13.32889653674901,0.40268456375838924,"2-Hydroxybutyric acid, 2TMS",55133-93-2,691,746,36703197,12.13
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Nonanoic acid, methyl ester",1731-84-6,835,863,62810512,41.49
+"Nonanoic acid, methyl esther C9",87,15.59,0.017,15.88904426959439,0.07550335570469799,"Cyclopentaneundecanoic acid, methyl ester",25779-85-5,776,828,47709570,7.5
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.09228187919463088,"Decanoic acid, methyl ester",110-42-9,828,863,64774616,50.3
+"Decanoic acid, methyl ester C10",87,18.41,0.025,18.57407725770052,0.09228187919463088,Methyl 8-methyl-nonanoate,---,795,823,55797097,13.16
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.050335570469798654,"Dodecanoic acid, methyl ester",111-82-0,862,890,52448503,61.68
+"Dodecanoic acid, methyl ester C12",87,23.43,0.008,23.611115886550774,0.050335570469798654,"Undecanoic acid, 10-methyl-, methyl ester",5129-56-6,827,855,68415097,15.48
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.04194630872483222,"Tridecanoic acid, 12-methyl-, methyl ester",5129-58-8,823,849,56639651,28.49
+Methyl tetradecanoate C14,87,28.15,0.008,28.148613494358038,0.04194630872483222,Methyl tetradecanoate,124-10-7,822,852,65896244,27.39
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Hexadecanoic acid, methyl ester",112-39-0,855,876,53281898,34.66
+"Hexadecanoic acid, methyl ester C16",87,32.22,0.042,32.26982691796279,0.07550335570469799,"Pentadecanoic acid, 14-methyl-, methyl ester",5129-60-2,852,892,57487734,30.62
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.12583892617449666,"Heptadecanoic acid, 16-methyl-, methyl ester",5129-61-3,815,837,71790900,32.91
+Methyl stearate C18,87,36.08,0.083,36.0163845757853,0.12583892617449666,Methyl stearate,112-61-8,806,856,60287013,23.89
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.20973154362416108,"Eicosanoic acid, methyl ester",1120-28-1,803,843,53838910,34.04
+"Eicosanoic acid, methyl ester C20",87,39.35,0.208,39.471543304666056,0.20973154362416108,"Tetradecanoic acid, 12-methyl-, methyl ester, (S)-",62691-5-8,727,866,61119986,4.29
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.39429530201342283,"Docosanoic acid, methyl ester",929-77-1,804,842,60565165,36.1
+"Docosanoic acid, methyl ester C22",87,42.46,0.399,42.65611731381519,0.39429530201342283,Methyl 20-methyl-heneicosanoate,---,789,876,62526570,21.88
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Tetracosanoic acid, methyl ester",2442-49-1,822,892,61398181,65.59
+"Tetracosanoic acid, methyl ester C24",87,45.43,0.749,45.61173502165295,0.6963087248322147,"Heneicosanoic acid, 18-propyl-, methyl ester",55334-67-3,717,724,8592644,4.46
